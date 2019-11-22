@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6fefec5.chunk.css",
-    "main.js": "/static/js/main.7a0a2e6a.chunk.js",
-    "main.js.map": "/static/js/main.7a0a2e6a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.773f8f65.js",
-    "runtime-main.js.map": "/static/js/runtime-main.773f8f65.js.map",
-    "static/css/2.510409cd.chunk.css": "/static/css/2.510409cd.chunk.css",
-    "static/js/2.ce209fd3.chunk.js": "/static/js/2.ce209fd3.chunk.js",
-    "static/js/2.ce209fd3.chunk.js.map": "/static/js/2.ce209fd3.chunk.js.map",
+    "main.css": "/static/css/main.0ac65021.chunk.css",
+    "main.js": "/static/js/main.462fa0a1.chunk.js",
+    "main.js.map": "/static/js/main.462fa0a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e27db5f3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e27db5f3.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.01ab79e6.chunk.js": "/static/js/2.01ab79e6.chunk.js",
+    "static/js/2.01ab79e6.chunk.js.map": "/static/js/2.01ab79e6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91466eb0714a6b0fbceaee0c61c82be5.js": "/precache-manifest.91466eb0714a6b0fbceaee0c61c82be5.js",
+    "precache-manifest.2d3a9f261501060c763a226cb84d4b8a.js": "/precache-manifest.2d3a9f261501060c763a226cb84d4b8a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.e6fefec5.chunk.css.map": "/static/css/main.e6fefec5.chunk.css.map",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.0ac65021.chunk.css.map": "/static/css/main.0ac65021.chunk.css.map",
     "static/media/Balance general.png": "/static/media/Balance general.55dcf64e.png",
     "static/media/Capital de trabajo1.png": "/static/media/Capital de trabajo1.12a96022.png",
     "static/media/Clasificación y Tipos1.jpg": "/static/media/Clasificación y Tipos1.1736d913.jpg",
@@ -87,10 +87,10 @@
     "static/media/video_guia.mp4": "/static/media/video_guia.ac488353.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.773f8f65.js",
-    "static/css/2.510409cd.chunk.css",
-    "static/js/2.ce209fd3.chunk.js",
-    "static/css/main.e6fefec5.chunk.css",
-    "static/js/main.7a0a2e6a.chunk.js"
+    "static/js/runtime-main.e27db5f3.js",
+    "static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.01ab79e6.chunk.js",
+    "static/css/main.0ac65021.chunk.css",
+    "static/js/main.462fa0a1.chunk.js"
   ]
 }
